@@ -1,3 +1,5 @@
+fork with support for 30 series gpus - build and publish to dockerhub before using
+
 # Hashtopolis, Hashcat v6.x.x, Vast.ai
 
 This container is useful for quickly! deploying lots of agents from vast.ai to your hashtopolis server with single clicks for an on-demand hash cracking session.
