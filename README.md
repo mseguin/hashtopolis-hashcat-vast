@@ -1,4 +1,4 @@
-fork with support for 30 series gpus - build and publish to dockerhub before using
+## fork with support for 30 series gpus - build and publish to dockerhub before using
 
 # Hashtopolis, Hashcat v6.x.x, Vast.ai
 
