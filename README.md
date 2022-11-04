@@ -1,4 +1,7 @@
-## fork with support for 30 series gpus - build and publish to dockerhub before using
+## fork with support for 30 series gpus
+## https://hub.docker.com/repository/docker/leho72/hashtopolis-hashcat-vast-new/general - use tag test2
+
+
 
 # Hashtopolis, Hashcat v6.x.x, Vast.ai
 
