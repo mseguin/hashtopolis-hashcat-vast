@@ -1,4 +1,4 @@
-## fork with support for 30 series gpus
+## fork with support for 30 & 40 series gpus
 ## https://hub.docker.com/repository/docker/leho72/hashtopolis-hashcat-vast-new/general - use tag test2
 
 
